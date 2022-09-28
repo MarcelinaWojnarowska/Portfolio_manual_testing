@@ -1,4 +1,4 @@
 # PORTFOLIO TESTOWANIA MANULANEGO
 
-## Przypadki testowe dla www.app.czyitjestdlamnie.pl
-## Zgłoszenia błędów dla www.app.czyitjestdlamnie.pl
+## Przypadki testowe dla https://app.czyitjestdlamnie.pl/
+## Zgłoszenia błędów dla https://app.czyitjestdlamnie.pl/
