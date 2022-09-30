@@ -6,6 +6,7 @@
 - [Przycisk 'Add new list' znika po kliknięciu](https://trello.com/c/GVIG7HAC)
 - [Możliwość dodania pustego “checkbox item”](https://trello.com/c/pn9mWde1)
 - [Źle wyglądająca nazwa “checkbox item” przy dużej ilości znaków. Brak ograniczenia na ilość znaków](https://trello.com/c/Z8pWq0HT)
+- [Brak walidacji pola "Label"](https://trello.com/c/Lw7mI3pC)
 - [Po stworzeniu nowej listy formularz z polami do uzupełnienia nie znika](https://trello.com/c/HvS37U8k)
 - [Przycisk usuwania taska powoduje usunięcie listy](https://trello.com/c/vDUxV1Uq)
 - [Źle wyglądający tytuł listy przy dużej ilości znaków, zmiana położenia guzika](https://trello.com/c/cGGojV6o)
