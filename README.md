@@ -9,3 +9,4 @@
 - [Po stworzeniu nowej listy formularz z polami do uzupełnienia nie znika](https://trello.com/c/HvS37U8k)
 - [Przycisk usuwania taska powoduje usunięcie listy](https://trello.com/c/vDUxV1Uq)
 - [Źle wyglądający tytuł listy przy dużej ilości znaków, zmiana położenia guzika](https://trello.com/c/cGGojV6o)
+- [Nie można dodać więcej niż dwóch etykiet do taska](https://trello.com/c/3iwveLEJ)
